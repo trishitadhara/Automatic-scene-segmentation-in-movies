@@ -12,3 +12,5 @@ author={Rao, Anyi and Xu, Linning and Xiong, Yu and Xu, Guodong and Huang, Qingq
 booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year={2020}
 }
+https://github.com/AnyiRao/SceneSeg
+https://github.com/movienet/movienet-tools
