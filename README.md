@@ -15,4 +15,4 @@ year={2020}
 
 https://github.com/AnyiRao/SceneSeg
 
-https://github.com/movienet/movienet-tools
+https://github.com/movienet
