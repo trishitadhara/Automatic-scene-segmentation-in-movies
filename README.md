@@ -5,8 +5,9 @@ With applications in the entertainment sector including scene retrieval and vide
 ### Data Collection
 To run the code, you need to download the movienet dataset from https://opendatalab.com/MovieNet/download, and also labels from https://drive.google.com/drive/folders/1w_qdnRsxF1w1rMuMbdCe1JLHeZ0MZ6A8 
 ### Running
-
-## Contribution
+Run feature_extraction_movienet_tools.ipynb to extract place, person and face feature from frames of shots
+feature_visualization.ipynb shows similarity score of different features for a sequence of frames
+model_final.ipynb and model_cnn.ipynb contains dataloader,training as well as testing code, which can be ran to obatin average precision scores
 ## References
 @inproceedings{rao2020local,
 title={A Local-to-Global Approach to Multi-modal Movie Scene Segmentation},
