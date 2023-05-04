@@ -14,6 +14,7 @@ model_final.ipynb and model_cnn.ipynb contains dataloader,training as well as te
 ## Results
 Without LSTM :
 AP: 0.327
+
 With LSTM :
 AP : 0.347
 
