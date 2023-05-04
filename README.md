@@ -10,6 +10,16 @@ Run feature_extraction_movienet_tools.ipynb to extract place, person and face fe
 feature_visualization.ipynb shows similarity score of different features for a sequence of frames
 
 model_final.ipynb and model_cnn.ipynb contains dataloader,training as well as testing code, which can be ran to obatin average precision scores
+
+## Results
+Without LSTM :
+AP: 0.327
+With LSTM :
+AP : 0.347
+<img width="167" alt="image" src="https://user-images.githubusercontent.com/60317512/236277098-b49e0eaf-3c13-4eb6-a717-5cefde5e27ee.png">
+
+<img width="161" alt="image" src="https://user-images.githubusercontent.com/60317512/236276811-5942abaf-40c9-4140-81ee-2d94284d1ee3.png">
+
 ## References
 @inproceedings{rao2020local,
 title={A Local-to-Global Approach to Multi-modal Movie Scene Segmentation},
